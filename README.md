@@ -20,5 +20,14 @@ To build the model,  we incorporated the following JMP-16 capabilities in our me
 
 ![image](https://user-images.githubusercontent.com/82319213/218238621-e6347cd5-5292-4e7b-a193-c78de3d472e9.png)
 
+## Exploring Outliers & Null Values
+While exploring the outliers, we identified some patients have higher values on some tests. Since the dataset reflected the actual physical condition of the patient, we decided not to exclude or impute these values.
+![image](https://user-images.githubusercontent.com/82319213/218238666-1ba8e741-ff81-4048-816c-93be6d6ac156.png)
+![image](https://user-images.githubusercontent.com/82319213/218238680-0823a618-61e5-4b8a-9de0-b4e5bfc1ba97.png)![image](https://user-images.githubusercontent.com/82319213/218238686-4e9bb699-081c-4a91-9397-0216e82c80d1.png)
+![image](https://user-images.githubusercontent.com/82319213/218238693-bdc3071c-0bf2-4645-ae2e-74be79c47fed.png)
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
 
 
